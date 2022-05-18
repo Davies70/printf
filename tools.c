@@ -1,4 +1,7 @@
 #include <unistd.h>
+#include "main.h"
+#include <stddef.h>
+#include <stdlib.h>
 /**
  * _memcpy - copies memory area
  * @dest: pointer to destination memory area

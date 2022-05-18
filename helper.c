@@ -88,3 +88,4 @@ char *found_nothing(char c)
 	string[2] = '\0';
 	return (p);
 }
+
